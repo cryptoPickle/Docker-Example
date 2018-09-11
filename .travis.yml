@@ -23,4 +23,3 @@ after_success:
 - docker push owned/multi-nginx
 - docker push owned/multi-worker
 - docker push owned/multi-server
-
